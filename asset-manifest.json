@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yt-clone/static/css/main.87fd8d97.css",
+    "main.js": "/yt-clone/static/js/main.ea8fbe2e.js",
+    "static/media/logo.png": "/yt-clone/static/media/logo.2dbca7dbea510e44ba4a.png",
+    "index.html": "/yt-clone/index.html",
+    "main.87fd8d97.css.map": "/yt-clone/static/css/main.87fd8d97.css.map",
+    "main.ea8fbe2e.js.map": "/yt-clone/static/js/main.ea8fbe2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fd8d97.css",
+    "static/js/main.ea8fbe2e.js"
+  ]
+}
